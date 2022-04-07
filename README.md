@@ -15,4 +15,4 @@ Following are the high level deliverables of the project:
 3.	Customize the bank account, and allowance fields in Oracle SiS.
 4.	Conduct a training for end-users describing the financial impact of student related transactions in SiS.
 # Project High-level Schedule:
-The high level plan for project schedule is to be completed within 3 months.
+The high level plan for project schedule is to be completed within 6 months.
