@@ -1,9 +1,12 @@
 # integration between ERP system and Oracle EBS System
 I have worked as a Data Engineer & Project Manager in this project.
 # Project Objectives:
-•	Provide Oracle ERP team with an access to student`s financial related information in SiS such as (student number, student name, student status, bank IBAN, college name, allowance type).
+•	Provide Oracle ERP team with an access to student financial related information in SiS such as (student number, student name, student status, bank IBAN, college name, allowance type).
+
 •	Get an access to student`s financial related information in Oracle ERP and provide business users with an access to these information such as (student payment historical information, over payment information).
+
 •	Add the customized fields of student`s financial related information into SiS as per Oracle ERP requirements.
+
 •	Train SiS End-users about the integration functionalities.
 # Project High Level Scope
 Following are the high level deliverables of the project:
